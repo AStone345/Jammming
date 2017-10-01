@@ -74,7 +74,7 @@ h2 {
   outline: none;
 }
 
-.SearchBar a {
+.SearchBar button {
   cursor: pointer;
   width: 8.11rem;
   padding: .77rem 0;
@@ -83,6 +83,7 @@ h2 {
   text-align: center;
   font-size: .833rem;
   transition: background-color .25s;
+  color: white;
 }
 
 .SearchBar a:hover {
